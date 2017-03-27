@@ -31,3 +31,6 @@ Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](h
 ## Please submit any pull requests to our DEV repo 
 - Leaflet Map FOR DEVELOPMENT https://jackdougherty.github.io/leaflet-maps-with-google-sheets-dev/index.html
 - Google Sheet FOR DEVELOPMENT https://docs.google.com/spreadsheets/d/1_xjrH3gSImzRKqIkhRAqpAAMjH387yaBWfGbidkKtqM/
+
+
+##Foreclosures 2016, Foreclosures 2016; Vacancies 2013, Vacancies 2013; Housing Code Violations 2016, Housing Code Violations 2016; Police Incidents 2016, Police Incidents 2016; Fire Department Incidents 2016, Fire Department Incidents 2016; Planning Applications 2015, Planning Applications 2015; Building and Trades Permit 2016, Building and Trades Permit 2016; Avg Score, Avg Score; Score Txt, Score Txt
